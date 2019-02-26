@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "name": "JsServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "RandiSPB <swat2299@gmail.com>",
+  "license": "MIT"
+}
